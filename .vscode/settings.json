@@ -138,5 +138,8 @@
     "brotli",
     "tailwindcss",
     "sider"
-  ]
+  ],
+  "[jsonc]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  }
 }
